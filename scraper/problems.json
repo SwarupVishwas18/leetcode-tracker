@@ -1,0 +1,284 @@
+[
+  { "sr": 1, "statement": "Merge Sorted Array", "level": "Easy" },
+  { "sr": 2, "statement": "Remove Element", "level": "Easy" },
+  {
+    "sr": 3,
+    "statement": "Remove Duplicates from Sorted Array",
+    "level": "Easy"
+  },
+  {
+    "sr": 4,
+    "statement": "Remove Duplicates from Sorted Array II",
+    "level": "Medium"
+  },
+  { "sr": 5, "statement": "Majority Element", "level": "Easy" },
+  { "sr": 6, "statement": "Rotate Array", "level": "Medium" },
+  { "sr": 7, "statement": "Best Time to Buy and Sell Stock", "level": "Easy" },
+  {
+    "sr": 8,
+    "statement": "Best Time to Buy and Sell Stock II",
+    "level": "Medium"
+  },
+  { "sr": 9, "statement": "Jump Game", "level": "Medium" },
+  { "sr": 10, "statement": "Jump Game II", "level": "Medium" },
+  { "sr": 11, "statement": "H-Index", "level": "Medium" },
+  { "sr": 12, "statement": "Insert Delete GetRandom O(1)", "level": "Medium" },
+  { "sr": 13, "statement": "Product of Array Except Self", "level": "Medium" },
+  { "sr": 14, "statement": "Gas Station", "level": "Medium" },
+  { "sr": 15, "statement": "Candy", "level": "Hard" },
+  { "sr": 16, "statement": "Trapping Rain Water", "level": "Hard" },
+  { "sr": 17, "statement": "Roman to Integer", "level": "Easy" },
+  { "sr": 18, "statement": "Integer to Roman", "level": "Medium" },
+  { "sr": 19, "statement": "Length of Last Word", "level": "Easy" },
+  { "sr": 20, "statement": "Longest Common Prefix", "level": "Easy" },
+  { "sr": 21, "statement": "Reverse Words in a String", "level": "Medium" },
+  { "sr": 22, "statement": "Zigzag Conversion", "level": "Medium" },
+  {
+    "sr": 23,
+    "statement": "Find the Index of the First Occurrence in a String",
+    "level": "Easy"
+  },
+  { "sr": 24, "statement": "Text Justification", "level": "Hard" },
+  { "sr": 25, "statement": "Valid Palindrome", "level": "Easy" },
+  { "sr": 26, "statement": "Is Subsequence", "level": "Easy" },
+  {
+    "sr": 27,
+    "statement": "Two Sum II - Input Array Is Sorted",
+    "level": "Medium"
+  },
+  { "sr": 28, "statement": "Container With Most Water", "level": "Medium" },
+  { "sr": 29, "statement": "3Sum", "level": "Medium" },
+  { "sr": 30, "statement": "Minimum Size Subarray Sum", "level": "Medium" },
+  {
+    "sr": 31,
+    "statement": "Longest Substring Without Repeating Characters",
+    "level": "Medium"
+  },
+  {
+    "sr": 32,
+    "statement": "Substring with Concatenation of All Words",
+    "level": "Hard"
+  },
+  { "sr": 33, "statement": "Minimum Window Substring", "level": "Hard" },
+  { "sr": 34, "statement": "Valid Sudoku", "level": "Medium" },
+  { "sr": 35, "statement": "Spiral Matrix", "level": "Medium" },
+  { "sr": 36, "statement": "Rotate Image", "level": "Medium" },
+  { "sr": 37, "statement": "Set Matrix Zeroes", "level": "Medium" },
+  { "sr": 38, "statement": "Game of Life", "level": "Medium" },
+  { "sr": 39, "statement": "Ransom Note", "level": "Easy" },
+  { "sr": 40, "statement": "Isomorphic Strings", "level": "Easy" },
+  { "sr": 41, "statement": "Word Pattern", "level": "Easy" },
+  { "sr": 42, "statement": "Valid Anagram", "level": "Easy" },
+  { "sr": 43, "statement": "Group Anagrams", "level": "Medium" },
+  { "sr": 44, "statement": "Two Sum", "level": "Easy" },
+  { "sr": 45, "statement": "Happy Number", "level": "Easy" },
+  { "sr": 46, "statement": "Contains Duplicate II", "level": "Easy" },
+  { "sr": 47, "statement": "Longest Consecutive Sequence", "level": "Medium" },
+  { "sr": 48, "statement": "Summary Ranges", "level": "Easy" },
+  { "sr": 49, "statement": "Merge Intervals", "level": "Medium" },
+  { "sr": 50, "statement": "Insert Interval", "level": "Medium" },
+  {
+    "sr": 51,
+    "statement": "Minimum Number of Arrows to Burst Balloons",
+    "level": "Medium"
+  },
+  { "sr": 52, "statement": "Valid Parentheses", "level": "Easy" },
+  { "sr": 53, "statement": "Simplify Path", "level": "Medium" },
+  { "sr": 54, "statement": "Min Stack", "level": "Medium" },
+  {
+    "sr": 55,
+    "statement": "Evaluate Reverse Polish Notation",
+    "level": "Medium"
+  },
+  { "sr": 56, "statement": "Basic Calculator", "level": "Hard" },
+  { "sr": 57, "statement": "Linked List Cycle", "level": "Easy" },
+  { "sr": 58, "statement": "Add Two Numbers", "level": "Medium" },
+  { "sr": 59, "statement": "Merge Two Sorted Lists", "level": "Easy" },
+  { "sr": 60, "statement": "Copy List with Random Pointer", "level": "Medium" },
+  { "sr": 61, "statement": "Reverse Linked List II", "level": "Medium" },
+  { "sr": 62, "statement": "Reverse Nodes in k-Group", "level": "Hard" },
+  {
+    "sr": 63,
+    "statement": "Remove Nth Node From End of List",
+    "level": "Medium"
+  },
+  {
+    "sr": 64,
+    "statement": "Remove Duplicates from Sorted List II",
+    "level": "Medium"
+  },
+  { "sr": 65, "statement": "Rotate List", "level": "Medium" },
+  { "sr": 66, "statement": "Partition List", "level": "Medium" },
+  { "sr": 67, "statement": "LRU Cache", "level": "Medium" },
+  { "sr": 68, "statement": "Maximum Depth of Binary Tree", "level": "Easy" },
+  { "sr": 69, "statement": "Same Tree", "level": "Easy" },
+  { "sr": 70, "statement": "Invert Binary Tree", "level": "Easy" },
+  { "sr": 71, "statement": "Symmetric Tree", "level": "Easy" },
+  {
+    "sr": 72,
+    "statement": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "level": "Medium"
+  },
+  {
+    "sr": 73,
+    "statement": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "level": "Medium"
+  },
+  {
+    "sr": 74,
+    "statement": "Populating Next Right Pointers in Each Node II",
+    "level": "Medium"
+  },
+  {
+    "sr": 75,
+    "statement": "Flatten Binary Tree to Linked List",
+    "level": "Medium"
+  },
+  { "sr": 76, "statement": "Path Sum", "level": "Easy" },
+  { "sr": 77, "statement": "Sum Root to Leaf Numbers", "level": "Medium" },
+  { "sr": 78, "statement": "Binary Tree Maximum Path Sum", "level": "Hard" },
+  { "sr": 79, "statement": "Binary Search Tree Iterator", "level": "Medium" },
+  { "sr": 80, "statement": "Count Complete Tree Nodes", "level": "Easy" },
+  {
+    "sr": 81,
+    "statement": "Lowest Common Ancestor of a Binary Tree",
+    "level": "Medium"
+  },
+  { "sr": 82, "statement": "Binary Tree Right Side View", "level": "Medium" },
+  {
+    "sr": 83,
+    "statement": "Average of Levels in Binary Tree",
+    "level": "Easy"
+  },
+  {
+    "sr": 84,
+    "statement": "Binary Tree Level Order Traversal",
+    "level": "Medium"
+  },
+  {
+    "sr": 85,
+    "statement": "Binary Tree Zigzag Level Order Traversal",
+    "level": "Medium"
+  },
+  {
+    "sr": 86,
+    "statement": "Minimum Absolute Difference in BST",
+    "level": "Easy"
+  },
+  { "sr": 87, "statement": "Kth Smallest Element in a BST", "level": "Medium" },
+  { "sr": 88, "statement": "Validate Binary Search Tree", "level": "Medium" },
+  { "sr": 89, "statement": "Number of Islands", "level": "Medium" },
+  { "sr": 90, "statement": "Surrounded Regions", "level": "Medium" },
+  { "sr": 91, "statement": "Clone Graph", "level": "Medium" },
+  { "sr": 92, "statement": "Evaluate Division", "level": "Medium" },
+  { "sr": 93, "statement": "Course Schedule", "level": "Medium" },
+  { "sr": 94, "statement": "Course Schedule II", "level": "Medium" },
+  { "sr": 95, "statement": "Snakes and Ladders", "level": "Medium" },
+  { "sr": 96, "statement": "Minimum Genetic Mutation", "level": "Medium" },
+  { "sr": 97, "statement": "Word Ladder", "level": "Hard" },
+  { "sr": 98, "statement": "Implement Trie (Prefix Tree)", "level": "Medium" },
+  {
+    "sr": 99,
+    "statement": "Design Add and Search Words Data Structure",
+    "level": "Medium"
+  },
+  { "sr": 100, "statement": "Word Search II", "level": "Hard" },
+  {
+    "sr": 101,
+    "statement": "Letter Combinations of a Phone Number",
+    "level": "Medium"
+  },
+  { "sr": 102, "statement": "Combinations", "level": "Medium" },
+  { "sr": 103, "statement": "Permutations", "level": "Medium" },
+  { "sr": 104, "statement": "Combination Sum", "level": "Medium" },
+  { "sr": 105, "statement": "N-Queens II", "level": "Hard" },
+  { "sr": 106, "statement": "Generate Parentheses", "level": "Medium" },
+  { "sr": 107, "statement": "Word Search", "level": "Medium" },
+  {
+    "sr": 108,
+    "statement": "Convert Sorted Array to Binary Search Tree",
+    "level": "Easy"
+  },
+  { "sr": 109, "statement": "Sort List", "level": "Medium" },
+  { "sr": 110, "statement": "Construct Quad Tree", "level": "Medium" },
+  { "sr": 111, "statement": "Merge k Sorted Lists", "level": "Hard" },
+  { "sr": 112, "statement": "Maximum Subarray", "level": "Medium" },
+  {
+    "sr": 113,
+    "statement": "Maximum Sum Circular Subarray",
+    "level": "Medium"
+  },
+  { "sr": 114, "statement": "Search Insert Position", "level": "Easy" },
+  { "sr": 115, "statement": "Search a 2D Matrix", "level": "Medium" },
+  { "sr": 116, "statement": "Find Peak Element", "level": "Medium" },
+  {
+    "sr": 117,
+    "statement": "Search in Rotated Sorted Array",
+    "level": "Medium"
+  },
+  {
+    "sr": 118,
+    "statement": "Find First and Last Position of Element in Sorted Array",
+    "level": "Medium"
+  },
+  {
+    "sr": 119,
+    "statement": "Find Minimum in Rotated Sorted Array",
+    "level": "Medium"
+  },
+  { "sr": 120, "statement": "Median of Two Sorted Arrays", "level": "Hard" },
+  {
+    "sr": 121,
+    "statement": "Kth Largest Element in an Array",
+    "level": "Medium"
+  },
+  { "sr": 122, "statement": "IPO", "level": "Hard" },
+  {
+    "sr": 123,
+    "statement": "Find K Pairs with Smallest Sums",
+    "level": "Medium"
+  },
+  { "sr": 124, "statement": "Find Median from Data Stream", "level": "Hard" },
+  { "sr": 125, "statement": "Add Binary", "level": "Easy" },
+  { "sr": 126, "statement": "Reverse Bits", "level": "Easy" },
+  { "sr": 127, "statement": "Number of 1 Bits", "level": "Easy" },
+  { "sr": 128, "statement": "Single Number", "level": "Easy" },
+  { "sr": 129, "statement": "Single Number II", "level": "Medium" },
+  { "sr": 130, "statement": "Bitwise AND of Numbers Range", "level": "Medium" },
+  { "sr": 131, "statement": "Palindrome Number", "level": "Easy" },
+  { "sr": 132, "statement": "Plus One", "level": "Easy" },
+  { "sr": 133, "statement": "Factorial Trailing Zeroes", "level": "Medium" },
+  { "sr": 134, "statement": "Sqrt(x)", "level": "Easy" },
+  { "sr": 135, "statement": "Pow(x, n)", "level": "Medium" },
+  { "sr": 136, "statement": "Max Points on a Line", "level": "Hard" },
+  { "sr": 137, "statement": "Climbing Stairs", "level": "Easy" },
+  { "sr": 138, "statement": "House Robber", "level": "Medium" },
+  { "sr": 139, "statement": "Word Break", "level": "Medium" },
+  { "sr": 140, "statement": "Coin Change", "level": "Medium" },
+  {
+    "sr": 141,
+    "statement": "Longest Increasing Subsequence",
+    "level": "Medium"
+  },
+  { "sr": 142, "statement": "Triangle", "level": "Medium" },
+  { "sr": 143, "statement": "Minimum Path Sum", "level": "Medium" },
+  { "sr": 144, "statement": "Unique Paths II", "level": "Medium" },
+  {
+    "sr": 145,
+    "statement": "Longest Palindromic Substring",
+    "level": "Medium"
+  },
+  { "sr": 146, "statement": "Interleaving String", "level": "Medium" },
+  { "sr": 147, "statement": "Edit Distance", "level": "Medium" },
+  {
+    "sr": 148,
+    "statement": "Best Time to Buy and Sell Stock III",
+    "level": "Hard"
+  },
+  {
+    "sr": 149,
+    "statement": "Best Time to Buy and Sell Stock IV",
+    "level": "Hard"
+  },
+  { "sr": 150, "statement": "Maximal Square", "level": "Medium" }
+]
